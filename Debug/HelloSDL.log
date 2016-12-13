@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (DungeonGame.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  HUD.cpp
+f:\luissdlgame\hud.cpp(31): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+f:\luissdlgame\hud.cpp(35): warning C4018: '<': signed/unsigned mismatch
+f:\luissdlgame\hud.cpp(42): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+  GameCore.cpp
+  Generating Code...
+  HelloSDL.vcxproj -> F:\LuisSDLGame\Debug\0.exe
