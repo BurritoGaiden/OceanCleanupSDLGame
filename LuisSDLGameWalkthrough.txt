@@ -1,0 +1,17 @@
+Ocean Cleanup!
+
+Save the ocean! Avoid hazardous mines and clean toxic waste with your "nuclear" powered submarine! 
+
+To "win" the game, the player must clean up all of the toxic waste objects in the scene. There are 20 to start with.
+To clean a toxic waste object, the player must collect a shield. Shields enable the player to safely navigate through toxic waste. The submarine does the rest of the work.
+
+There are mines scattered throughout this part of the ocean. The player must avoid the mines by kiting them or avoiding them at all costs.
+Two hits, and the submarine reactor (life) must be replaced. Lose all three submarine reactors and the game resets.
+
+Clean up all toxic waste to win.
+
+Hint: Most of this game involves kiting the mines around and being careful not to get stuck on any edges. The winning player will be the person who is patient and strategic.
+
+Hint: Don't be afraid to skip past shields if there are too many enemies in the area. Enemies can group up and become under or overwhelming depending on player skill.
+
+Big Hint: Stick close to the walls.
